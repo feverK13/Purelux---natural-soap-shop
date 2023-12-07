@@ -1,0 +1,7 @@
+.grid_main{
+    /*Обов'язково в елементі прописувати display: grid; */
+    grid-template-columns: repeat(12, 72px);
+    column-gap: 48px;
+    justify-content: center;
+    align-content: center;
+}
